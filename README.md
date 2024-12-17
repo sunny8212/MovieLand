@@ -50,8 +50,7 @@ REACT_APP_API_URL=http://www.omdbapi.com
 REACT_APP_API_KEY=your_api_key
 
 <h2>📁 Project Structure</h2>
-lua
-Copy code
+<pre>
 movieland/
 │-- public/
 │   └── index.html
@@ -63,6 +62,7 @@ movieland/
 │   └── styles.css
 ├── .env
 └── package.json
+</pre>
 
 <h2>📝 How to Use</h2>
 Search for a Movie:
@@ -80,7 +80,7 @@ Each movie card shows the poster and title.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 <h2>👨‍💻 Author</h2>
-Sunny Padariya
-LinkedIn: https://www.linkedin.com/in/sunny-p-/
-GitHub: [Your GitHub Profile](https://github.com/sunny8212)
+Sunny Padariya<br>
+LinkedIn: (https://www.linkedin.com/in/sunny-p-/)<br>
+GitHub: (https://github.com/sunny8212)
 
