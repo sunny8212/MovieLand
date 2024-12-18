@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/movieland.git
+git clone https://github.com/sunny8212/movieland.git
 cd movieland
 Install dependencies:
 
